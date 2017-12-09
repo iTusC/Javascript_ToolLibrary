@@ -1,6 +1,6 @@
 /**
  * [arrayEqual 判断两个数组是否想等]
- * @param  {Array} arr1 [参数1]
+ * @param  {Array} arr1 [参数11]
  * @param  {Array} arr2 [参数2]
  * @return {Boolean}      [返回结果类型]
  */
