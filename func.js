@@ -819,7 +819,6 @@ function throttle(delay, noTrailing, callback, debounceMode) {
             timeoutID = setTimeout(debounceMode ? clear: exec, debounceMode === undefined ? delay - elapsed: delay);
         }
     }
-
     // Return the wrapper function.
     return wrapper;
 };
